@@ -6,21 +6,13 @@
   ],
   "UserInfo": 
   [
-    {"Name": "Admin",
-     "Pass": "2005k0219",
-     "Debug": 
-     [
-       {"Index":"1"},
-       {"Index":"2"}
-     ]
+    {
+      "Name": "Admin",
+      "Pass": "2005k0219"
     },
-    {"Name": "User",
-     "Pass": "pass",
-     "Debug": 
-     [
-       {"Index":"1"},
-       {"Index":"2"}
-     ]
+    {
+      "Name": "User",
+      "Pass": "pass"
     }
   ]
 }

@@ -1,6 +1,1 @@
-{
-  "DebugSoftwere": [
-    { "Name": "EEWMonitor ST" },
-    {"Name": "Eqimpose"}
-  ],"UserInfo": [{"Name": "Admin","Pass": "2005k0219"},{"Name": "User","Pass": "pass"}]
-}
+{"DebugSoftwere": [{ "Name": "EEWMonitor ST" },{"Name": "Eqimpose"}],"UserInfo": [{"Name": "Admin","Pass": "2005k0219"},{"Name": "User","Pass": "pass"}]}
